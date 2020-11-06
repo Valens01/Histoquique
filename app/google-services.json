@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "315669054156",
+    "firebase_url": "https://histoquique.firebaseio.com",
+    "project_id": "histoquique",
+    "storage_bucket": "histoquique.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315669054156:android:8dd73c7f3e867786813869",
+        "android_client_info": {
+          "package_name": "com.example.histoquique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315669054156-pse1ieng4h31mb88c86jtilmqkq4uit1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoi6UrXuiimPDMZVlCO1_AiPjMLAdQGk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315669054156-pse1ieng4h31mb88c86jtilmqkq4uit1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
